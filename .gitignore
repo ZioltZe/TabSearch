@@ -6,6 +6,5 @@
 /backend/.mvn
 /backend/target
 /backend/src/main/resources
-/backend/src/main/java/eliott/backend/security
 /backend/src/test
 /backend/src/main/java/eliott/backend/service/database
